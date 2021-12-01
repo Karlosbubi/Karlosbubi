@@ -9,6 +9,23 @@ Die wichtigsten Komponenten sind der Wrapper für Fenster management sowie das G
 
 [Offizielle Anleitung](https://www.sfml-dev.org/tutorials/2.5/start-vc.php)
 
+### Linux
+
+```bash
+# Ubuntu, Mint, Pop!, etc.
+sudo add-apt-repository ppa:sonkun/sfml-development 
+sudo apt-get update
+sudo apt install libsfml-dev
+
+# Fedora, RHEL
+sudo dnf install SFML-devel
+
+# Arch, Manjaro, etc.
+sudo pacman -S sfml
+```
+
+### Windows (Visual Studio)
+
 ![Image Missing](assets/1Capture.PNG)
 
 ![Image Missing](assets/2Capture.PNG)
@@ -45,9 +62,9 @@ Die wichtigsten Komponenten sind der Wrapper für Fenster management sowie das G
 
 ![Image Missing](assets/17Capture.PNG)
 
-![Image Missing](assets/18Capture.PNG)
+### Installation Testen
 
-Grüner Kreis Beispielcode :
+Testen mit dem Offiziellen Beispielcode :
 
 ```c++
 #include <SFML/Graphics.hpp>
@@ -76,6 +93,8 @@ int main()
 }
 ```
 
+Erwartetes Ergebinss :
+![Image Missing](assets/18Capture.PNG)
 
 ---
 Mitautor : [Philipp Golla](https://github.com/PhilippGolla)
