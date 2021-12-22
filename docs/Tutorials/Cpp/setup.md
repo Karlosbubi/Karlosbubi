@@ -48,7 +48,7 @@ Nun kommt die Shell/das Terminal ins Spiel.
 `ls` listet die dateien im offenen Ordnenr auf.
 ![Im Terminal](assets/Screenshot%20from%202021-12-22%2019-34-50.png)
 
-Um das Programm aus zu führen müssen wir es ersteinmal aus dem Source Code zu einem "echten" Programm machen, das nennt man `Kompiliren` und wird von einem Sogenannten `Kompiler` gemacht, dieser ist der haupt grund, wofür wir das terminal benötigen. Mein Kompiler der Wahl ist `gcc` und wird für C++ wie folgt verwendet.
+Um das Programm aus zu führen müssen wir es ersteinmal aus dem Source Code zu einem "echten" Programm machen, das nennt man `Kompilieren` und wird von einem Sogenannten `Kompiler` gemacht, dieser ist der haupt grund, wofür wir das terminal benötigen. Mein Kompiler der Wahl ist `gcc` und wird für C++ wie folgt verwendet.
 
 ```bash
 g++ INPUT -o OUTPUT
