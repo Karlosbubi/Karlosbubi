@@ -1,6 +1,6 @@
 # Hello There, Here is Kurt
 
-[![Kurt's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=kurtb03&show_icons=true&langs_count=5&theme=dracula)](https://github.com/kurtb03)
+[![Kurt's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=kurtb03&show_icons=true&langs_count=5&theme=nord)](https://github.com/kurtb03)
 
 [Naming Convention](https://solarsystem.nasa.gov/moons/jupiter-moons/overview/?page=0&per_page=40&order=name+asc&search=&placeholder=Enter+moon+name&condition_1=9%3Aparent_id&condition_2=moon%3Abody_type%3Ailike "NASA")
 
