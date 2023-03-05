@@ -1,6 +1,7 @@
 ---
 title: Hello World
+nav: false
 ---
 ______________
 
-Home Page geänderter Blindtext.
+Home Page Blindtext.
