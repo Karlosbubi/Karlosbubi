@@ -15,6 +15,7 @@ Um Bilder Einzufügen benutzt man ein ! Vor dem Optionalen Alternativen Text und
 
 Um eine Tabelle Darzustellen benutz man – und | . Die - Trennen die Zeilen und die | die Spalten.
 Bsp:
+
 |  Erste Ueberschrift   |  Zweite Ueberschrift   |  Dritte Ueberschrift   |
 | :-------------------: | :--------------------: | :--------------------: |
 |     Erster Inhalt     |     Zweiter Inhalt     |     Dritter Inhalt     |
