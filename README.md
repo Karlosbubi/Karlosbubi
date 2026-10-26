@@ -1,6 +1,6 @@
 # Hello There, Here is Kurt
 
-[![Kurt's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=karlosbubi&layout=donut&show_icons=true&theme=nord)](https://github.com/karlosbubi)
+Feel free to look around, but there's not much here as most development happens elsewhere.
+My workplace and my home-lab both have their own Git Hosting.
 
-[Naming Convention](https://science.nasa.gov/solar-system/moons/)  
-[GitLab](https://gitlab.brunner.codes/karlosbubi/)
+[Naming Convention](https://science.nasa.gov/solar-system/moons/)
